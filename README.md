@@ -1,2 +1,3 @@
 # jme4180-vibration3
-Response of a Single Degree of Freedom System
+
+This experiment is focused on the investigation of vibrational systems with a single degree of freedom and how damping affects the response of the system. Using a system in which a car attached to two springs rides back and forth along a one-dimensional path, the responses of the system to excitational forces were recorded using an accelerometer and logged in SignalCalc. To study the effects of damping on the system the car held magnets with adjustable heights above the path of the car, allowing for varying degrees of damping to the system. The key findings in this experiment were the spring constants for K1/K3 and K2/K4, which were 44.07 N/m and 93.46 N/m respectively. 
